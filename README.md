@@ -1,4 +1,4 @@
-# Mentorship
+# Events
 
 The purpose of this project was to learn basic HTML and CSS.
 
@@ -8,15 +8,14 @@ The purpose of this project was to learn basic HTML and CSS.
 
 ## Apprenticeship
 
-- Z-index;
-- Flexbox;
-- Form;
-- ::before;
-- :nth-child(1);
+- Formulários HTML;
+- Fieldset e Legend;
 - Select;
-
-
-
+- Checkbox;
+- Formatação de margin e padding e box-sizing;
+- ::before;
+- Utilizando Select e Checkbox customizado;
+- Required;
 
 
 ## 🔗 Contact
