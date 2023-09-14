@@ -1,29 +1,29 @@
+# Mentorship
 
-# Crie seu evento
+The purpose of this project was to learn basic HTML and CSS.
 
-O intuito deste projeto foi o aprendizado de HTML e CSS básicos, entendendo como funcionam os formulários no HTML, Aprendendo novos elementos Html, validação de formulários. 
 
-## Aprendizado
+![App Screenshot](./assets/mentorship.png)
 
-- Formulários HTML;
-- Fieldset e Legend;
-- Select;
-- Checkbox;
-- Formatação de margin e padding e box-sizing;
+
+## Apprenticeship
+
+- Z-index;
+- Flexbox;
+- Form;
 - ::before;
-- Utilizando Select e Checkbox customizado;
-- Required;
+- :nth-child(1);
+- Select;
 
 
 
 
 
-
-## 🔗 Contato
+## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-f%C3%BCllenbach-9b25a6148/)
 
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 HTML, CSS, Figma, Google fonts
 
